@@ -1,2 +1,3 @@
 # Breast-Cancer-Detection
 Analysis of Breast Cancer Detection
+Breast Cancer is a treacherous disease found among a majority of about 12 percent of all new cancer cases and 25 percent of all cancers in women and therefore, the early diagnosis of breast cancer is paramount to good prognosis. Despite the fact that the symptoms may be weak in the early stages, chances of survival dramatically increase if detected early.  Machine learning helps with early diagnosis of breast cancer and determines the nature of the cancer by analysing the tumour size. Machine learning methods are the leading approaches to obtain favourable outcomes among classification and prediction problems
